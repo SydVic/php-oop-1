@@ -63,6 +63,7 @@ error_reporting(E_ALL);
   $jurassic_park->addScore(10);
   $jurassic_park->addScore(9);
   $jurassic_park->addScore(8);
+  $jurassic_park->addScore(10);
   // var_dump($jurassic_park);
 
   $blade_runner = new Movie("Blade Runner", 1982, "English");
