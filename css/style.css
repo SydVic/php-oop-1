@@ -1,0 +1,18 @@
+.red,
+.yellow,
+.green {
+  display: inline-block;
+  padding: .3rem .6rem;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
